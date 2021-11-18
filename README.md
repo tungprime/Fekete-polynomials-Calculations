@@ -3,7 +3,7 @@ These codes are written to test the main conjecture in [1] about the Galois grou
 
 ## The codes have the following functions 
 
-(1) Reduced Fekete polynomials (see definition 3.2 in the article [1]). 
+(1) The function reduced_fekete(p) return the reduced Fekete polynomial associated with the prime p (see definition 3.2 in the article [1]). 
 
 (2) Given p,q the function fekete_reduction(p, q) computes the factorization of g_p(x) modulo q. 
 
