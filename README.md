@@ -1,4 +1,4 @@
-These codes are written to test the main conjecture in [1] about the Galois group of g_p(x). These codes are written and run and Cocalc. 
+These codes are written to test the main conjecture in [1] about the Galois group of g_p(x). These codes are written and run on Cocalc. 
 
 
 ## The codes have the following functions 
