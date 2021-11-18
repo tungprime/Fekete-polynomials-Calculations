@@ -10,7 +10,12 @@ These codes are written to test the main conjecture in [1] about the Galois grou
 
 (5) The function transpostion(p,n) searches for q_3<n such that g_p(x) modulo q_3 is a product of a quadratic polynomial and distince irreducible polynomials of odd degrees. 
 
-(6) The function search(p,n) simultaneously search for the smallest triple $(q_1, q_2, q_3)$
+(6) The function search(p,n) simultaneously search for the smallest triple (q_1, q_2, q_3).
+
+
+Some quick notes about the files in this repository.
+
+(1) The file through_search returns the triple (q_1, q_2, q_3) for p<1000. 
 
 [1] Jan Minac, Tung T. Nguyen, Nguyen Duy Tan, Fekete polynomials, quadratic residues, and arithmetic, available at https://arxiv.org/abs/2111.05256
 
