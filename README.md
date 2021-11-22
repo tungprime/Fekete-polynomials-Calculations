@@ -17,16 +17,18 @@ These codes are written to test the main conjecture in [1] about the Galois grou
 
 ## Calculations with f_p [the file "computations_with_f"] 
 
-(1) The function fekete(p) return the Fekete polynomial f_p. 
+(1) The function fekete(p) returns the Fekete polynomial f_p. 
 
-(2) THe function fekete_reduction(p,q) computes the factorization of f_p(x) modulo q. 
+(2) The function fekete_reduction(p,q) computes the factorization of f_p(x) modulo q. 
 
 (3) The functions irreducible(p,n), almost_cycle(p,n), two_cycle(p,n), four_cycle(p,n) search for the quadruple (q_1, q_2, q_3, q_4) that produces the precise cycle shapes (see Proposition 4.14 in the article [1] for details). 
 
 
 ## Some quick notes about the files in this repository.
 
-(1) The file through_search returns the triple (q_1, q_2, q_3) for p<1000.
+(1) The file "computations_with_f.ipynb" returns the triple (q_1, q_2, q_3) for p<1000.
+
+(2) The file "computations_with_g.ipynb" returns the quadruple (q_1, q_2, q_3, q_4) for p<632. 
 
 ## References 
 
