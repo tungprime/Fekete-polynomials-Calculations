@@ -26,9 +26,9 @@ These codes are written to test the main conjecture in [1] about the Galois grou
 
 ## Some quick notes about the files in this repository.
 
-(1) The file "computations_with_f.ipynb" returns the triple (q_1, q_2, q_3) for p<1000.
+(1) The file "computations_with_g.ipynb" returns the triple (q_1, q_2, q_3) for p<1000.
 
-(2) The file "computations_with_g.ipynb" returns the quadruple (q_1, q_2, q_3, q_4) for p<632. 
+(2) The file "computations_with_f.ipynb" returns the quadruple (q_1, q_2, q_3, q_4) for p<632. 
 
 ## References 
 
