@@ -6,7 +6,7 @@ authors:
 - family-names: "Nguyen T. "
   given-names: "Tung "
 -family-names "Nguyen Duy" 
-  given-names "Tan" 
+  given-names: "Tan" 
 title: "Fekete-polynomials-Calculations"
 version: 1.0.0
 doi: 10.5281/zenodo.1234
