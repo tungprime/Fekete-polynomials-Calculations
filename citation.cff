@@ -7,10 +7,8 @@ authors:
   given-names: "Tung "
 -family-names "Nguyen Duy" 
   given-names "Tan" 
-
 title: "Fekete-polynomials-Calculations"
 version: 1.0.0
 doi: 10.5281/zenodo.1234
 date-released: 2022-03-17
-
 url: "https://github.com/tungprime/Fekete-polynomials-Calculations"
