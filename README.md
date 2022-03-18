@@ -1,4 +1,4 @@
-These codes are written to test the main conjecture in [1] about the Galois group of g_p(x). These codes are written and run on Cocalc. 
+These codes are written to test the main conjectures in [1] about the Galois groups of g_p(x) and f_p(x). These codes are written in Sagemath and run on Cocalc. 
 
 
 ## Calculations with g_p  [the file "computations_with_g"] 
@@ -23,12 +23,18 @@ These codes are written to test the main conjecture in [1] about the Galois grou
 
 (3) The functions irreducible(p,n), almost_cycle(p,n), two_cycle(p,n), four_cycle(p,n) search for the quadruple (q_1, q_2, q_3, q_4) that produces the precise cycle shapes (see Proposition 4.14 in the article [1] for details). 
 
+## Verification of the irreducibility of f_p and g_p [the file "fekete_irreducible_g-2"] 
+
+This file verifies the irreducibility of f_p(x) and g_p(x) for p<10^4. Here we use the built-in function is_irreducible() in Sagemath instead of studying g_p(x) modulo a suitable prime number q. 
+
 
 ## Some quick notes about the files in this repository.
 
 (1) The file "computations_with_g.ipynb" returns the triple (q_1, q_2, q_3) for p<1000.
 
 (2) The file "computations_with_f.ipynb" returns the quadruple (q_1, q_2, q_3, q_4) for p<632. 
+
+(3) The file "fekete_irreducible_g-2" verifies g_p and f_p are irreducible for p<10^4.
 
 ## References 
 
